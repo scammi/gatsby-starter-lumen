@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: '',
+  url: 'https://scammi.github.io/blog/',
   pathPrefix: '/',
   title: 'Blog by Santiago Cammi',
   subtitle: 'Humanizing health trough technology.',
