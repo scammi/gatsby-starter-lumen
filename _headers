@@ -83,6 +83,14 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /posts/Dehumanized-health-care/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -99,14 +107,6 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
-  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-86586c27426cc5687ee9.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /tag/health-care
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
