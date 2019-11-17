@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://scammi.github.io/blog/',
-  pathPrefix: '/',
+  url: ' https://scammi.github.io/gatsby-starter-lumen/',
+  pathPrefix: '/gatsby-starter-lumen/',
   title: 'Blog by Santiago Cammi',
   subtitle: 'Humanizing health trough technology.',
   copyright: '© All rights reserved.',
