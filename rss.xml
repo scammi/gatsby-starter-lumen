@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link>https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Nov 2019 15:21:24 GMT</lastBuildDate><item><title><![CDATA[Value based health]]></title><description><![CDATA[Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.. ]]></description><link>https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</link><guid isPermaLink="false">https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</guid><pubDate>Sun, 17 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.88888888888889%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB5rCzc5x//8QAGRABAAMBAQAAAAAAAAAAAAAAAgABEhAR/9oACAEBAAEFAgfbZzwamFFU/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAECH/2gAIAQEABj8CY//EABoQAAMBAAMAAAAAAAAAAAAAAAABIRExUZH/2gAIAQEAAT8h07EK4McNmzepemLzpH//2gAMAwEAAgADAAAAEITf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EGx//8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8QIiD2V5jCa2IPmKjtpcaSKc7O57HHi5JqsGG//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/01472/the-doctor-friedrich-friedlander.webp 240w,
+/blog/static/221df5adb697be063ff6cf68f5b4b72b/222bd/the-doctor-friedrich-friedlander.webp 480w,
+/blog/static/221df5adb697be063ff6cf68f5b4b72b/31462/the-doctor-friedrich-friedlander.webp 900w&quot;
+          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/3bc27/the-doctor-friedrich-friedlander.jpg 240w,
+/blog/static/221df5adb697be063ff6cf68f5b4b72b/98431/the-doctor-friedrich-friedlander.jpg 480w,
+/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg 900w&quot;
+          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+          alt=&quot;the-doctor-friedrich-friedlander&quot;
+          title=&quot;the-doctor-friedrich-friedlander&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Health care has fallen into an ‘incentive paradox’ where the poorer the health of the population, the greater the provider reword is. The reason is that the driving incentive for providers is the volume of care. Meaning they maximize for patient number, and services utilized. The extreme conclusion to this logic implies, that health institutions will aim to have their patients sick enough to be treated, but no so much to be dead. These patients are chronically ill, suffering from diabetes, renal failure, high blood pressure, asthma, depression, etc.&lt;/p&gt;
+&lt;p&gt;The patient’s incentive to have a fulfilling and healthy life does not aline with those of the medical institution. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.  A shift from volume-driven to value-driven practice is needed. But first, we need to understand the meaning of value, how to measure and achieve it.  &lt;/p&gt;
+&lt;p&gt;A value approach exceeds the diagnosis and treatment of illness, it includes the promotion of health, the integrated holistic treatment of disease and the prevention of illness.  Reimbursement is done not only through the means of fee-for-service but providers are paid also based on patient health outcomes. There are various alternative payment models, but they all require that participant providers assume risk in different degrees.&lt;/p&gt;
+&lt;p&gt;Implementing such new models implies the measurement of new parameters and the analysis of complicated patters through the gathering of big data. Also, there is a need for a framework of information technology that enables people and processes with the end of coordinating and unifying patient care plans.&lt;/p&gt;
+&lt;p&gt;There seems to be a trend towards value-based care and many challenges remain, so we must remain vigilant for such emerging opportunities in the development of new technologies that allow for such models to develop and thrive.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dehumanized health care]]></title><description><![CDATA[Health care has become dehumanized and medicine has lost its soul. How have we come to this?. ]]></description><link>https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</link><guid isPermaLink="false">https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</guid><pubDate>Sun, 10 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABTnsXLQkT/8QAGBABAAMBAAAAAAAAAAAAAAAAAQIDECP/2gAIAQEAAQUCjTyTCyQOf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAEQERIh/9oACAEBAAY/AtkuXj//xAAYEAEBAQEBAAAAAAAAAAAAAAABEQAQkf/aAAgBAQABPyE2ACaDzwsyrXn/2gAMAwEAAgADAAAAEAMf/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Qh//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAVf//EABsQAQEBAAIDAAAAAAAAAAAAAAERACExQWFx/9oACAEBAAE/EDijohfWv1seGd7rQF/dmWYPOl87/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/01472/hospital-on-fire-francisco-goya.webp 240w,
+/blog/static/8077c583ecaa3406a806dcc3085cf11a/222bd/hospital-on-fire-francisco-goya.webp 480w,
+/blog/static/8077c583ecaa3406a806dcc3085cf11a/31462/hospital-on-fire-francisco-goya.webp 900w&quot;
+          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/3bc27/hospital-on-fire-francisco-goya.jpg 240w,
+/blog/static/8077c583ecaa3406a806dcc3085cf11a/98431/hospital-on-fire-francisco-goya.jpg 480w,
+/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg 900w&quot;
+          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+          alt=&quot;hospital-on-fire-francisco-goya&quot;
+          title=&quot;hospital-on-fire-francisco-goya&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Health care has become dehumanized and medicine has lost its soul. Touch has been replaced by machines and the carefully interested listening of anamnesis has been displaced by an uninterested directed questionnaire.&lt;/p&gt;
+&lt;p&gt;This is partly manifesting as a health crisis in the medical profession, a BMA report on mental health and well-being in the medical profession shows that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;40% are currently suffering from a broader psychological or emotional condition.&lt;/li&gt;
+&lt;li&gt;80% are at high or very high risk of burnout, driven mostly by exhaustion.&lt;/li&gt;
+&lt;li&gt;One in three use alcohol, drugs, self-medication or prescribing as a way to cope with a mental health condition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These professionals are in charge of our health, unhappy, overworked and underslept. This correlates with the experience of patients, they feel rushed,  unappreciated and uncomfortable. Professionals in these conditions are more likely to make mistakes, increasing monetary and health costs. Also, the interpersonal relationships between the participants of the health system worsen over time, to the point of verbal and physical abuse.&lt;/p&gt;
+&lt;p&gt;The problem lies in the design of the system. First, the goal is to cure pathologies, not prevent them. This leads patients to consult when it’s too late to prevent illness. Leading the medical staff to treat diseases that are more advanced and complex and in greater volume. Leaving them exhausted and burnout. Being more cost-effective to prevent disease by promoting health. An example being, promoting a healthy lifestyle to prevent obesity and thus the number of heart attacks in a given population.&lt;/p&gt;
+&lt;p&gt;Also, the incentives have become perverted, the revenue of health care providers is determined by the volume of services provided. This incentivizes the institution to run as many tests and treatments as possible. Leading to unnecessary interventions that increase morbidity.&lt;/p&gt;
+&lt;p&gt;The system is designed to fix machines, doctors see interacting systems of the human body, not a person. Health worker ends up working to maximize bed tourn over, becoming machines with input- outputs mindset. Since the metric we are using for performance is manly the volume capable of treating, the system maximizes for that end.&lt;/p&gt;
+&lt;p&gt;The implementation of information technologies has only exacerbated the problem. Keyboards and screens have further distance between patients and doctors, eye contact becomes rare and the flow of conversations becomes continually interrupted. Doctors find themselves hours on end filling paperwork, contributing to their burnout.&lt;/p&gt;
+&lt;p&gt;It does not have to be this way, we should be implementing a human-center design, where the views of participants are incorporated. Utilizing technology in innovative ways to facilitate human connection, lessen the work of professionals and changing the incentives from that of volume to the value added to the patient’s health.&lt;/p&gt;</content:encoded></item></channel></rss>
