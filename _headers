@@ -83,14 +83,6 @@
   Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
   Link: </blog/component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/blog/posts/Dehumanized-health-care/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /blog/pages/about/
   Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
   Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -100,6 +92,14 @@
   Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
   Link: </blog/component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /blog/posts/Value-based-health/
+  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
+  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
+  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
+  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/blog/posts/Dehumanized-health-care/
   Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
   Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
