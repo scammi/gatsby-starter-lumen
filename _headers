@@ -11,7 +11,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-dbaf97f79f1f1465347c.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-6c75b483559d4fc975bb.js
+/commons-0b067cbd2c20d6c1a4a4.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js
   Cache-Control: public, max-age=31536000, immutable
@@ -29,121 +29,121 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-549b14672ebee41db824.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-c4e0161193e223221b58.js
+/webpack-runtime-be188dc44b9469a1aaf4.js
   Cache-Control: public, max-age=31536000, immutable
-/app-34dc364ad6a6709b0eda.js
+/app-cbb9cfb5db52eea8f27f.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/blog/offline-plugin-app-shell-fallback/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js>; rel=preload; as=script
-/blog/404
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js>; rel=preload; as=script
-/blog/tags
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-tags-list-template-js-81b0fab9ecbf0a3397aa.js>; rel=preload; as=script
-/blog/categories
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-categories-list-template-js-a34b9f285b205da9e8cb.js>; rel=preload; as=script
-/blog/404.html
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js>; rel=preload; as=script
-/blog/pages/contacts/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/blog/pages/about/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/blog/posts/Value-based-health/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/blog/posts/Dehumanized-health-care/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/blog/tag/health-care
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
-/blog/tag/mental-health
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
-/blog/tag/value-based-health
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
-/blog/category/health-care
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-category-template-js-2fc43f31571e702d95ad.js>; rel=preload; as=script
-/blog/
-  Link: </blog/webpack-runtime-c4e0161193e223221b58.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/app-34dc364ad6a6709b0eda.js>; rel=preload; as=script
-  Link: </blog/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </blog/commons-6c75b483559d4fc975bb.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-index-template-js-549b14672ebee41db824.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-list-template-js-81b0fab9ecbf0a3397aa.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-categories-list-template-js-a34b9f285b205da9e8cb.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
+/posts/Dehumanized-health-care/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/posts/Value-based-health/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/tag/health-care
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
+/tag/mental-health
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
+/tag/value-based-health
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-2106aadcca831f3ba933.js>; rel=preload; as=script
+/category/health-care
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-2fc43f31571e702d95ad.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </app-cbb9cfb5db52eea8f27f.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-0b067cbd2c20d6c1a4a4.js>; rel=preload; as=script
+  Link: </component---src-templates-index-template-js-549b14672ebee41db824.js>; rel=preload; as=script

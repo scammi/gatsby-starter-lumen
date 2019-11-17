@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link>http://www.santiagocammi.com/</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Nov 2019 18:12:56 GMT</lastBuildDate><item><title><![CDATA[Value based health]]></title><description><![CDATA[Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.. ]]></description><link>http://www.santiagocammi.com//posts/Value-based-health/</link><guid isPermaLink="false">http://www.santiagocammi.com//posts/Value-based-health/</guid><pubDate>Sun, 17 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Nov 2019 18:17:57 GMT</lastBuildDate><item><title><![CDATA[Value based health]]></title><description><![CDATA[Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.. ]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</guid><pubDate>Sun, 17 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+    href=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,22 +15,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/01472/the-doctor-friedrich-friedlander.webp 240w,
-/blog/static/221df5adb697be063ff6cf68f5b4b72b/222bd/the-doctor-friedrich-friedlander.webp 480w,
-/blog/static/221df5adb697be063ff6cf68f5b4b72b/31462/the-doctor-friedrich-friedlander.webp 900w&quot;
+          srcset=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/01472/the-doctor-friedrich-friedlander.webp 240w,
+/static/221df5adb697be063ff6cf68f5b4b72b/222bd/the-doctor-friedrich-friedlander.webp 480w,
+/static/221df5adb697be063ff6cf68f5b4b72b/31462/the-doctor-friedrich-friedlander.webp 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/3bc27/the-doctor-friedrich-friedlander.jpg 240w,
-/blog/static/221df5adb697be063ff6cf68f5b4b72b/98431/the-doctor-friedrich-friedlander.jpg 480w,
-/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg 900w&quot;
+          srcset=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/3bc27/the-doctor-friedrich-friedlander.jpg 240w,
+/static/221df5adb697be063ff6cf68f5b4b72b/98431/the-doctor-friedrich-friedlander.jpg 480w,
+/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/blog/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+          src=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
           alt=&quot;the-doctor-friedrich-friedlander&quot;
           title=&quot;the-doctor-friedrich-friedlander&quot;
           loading=&quot;lazy&quot;
@@ -42,13 +42,13 @@
 &lt;p&gt;The patient’s incentive to have a fulfilling and healthy life does not aline with those of the medical institution. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.  A shift from volume-driven to value-driven practice is needed. But first, we need to understand the meaning of value, how to measure and achieve it.  &lt;/p&gt;
 &lt;p&gt;A value approach exceeds the diagnosis and treatment of illness, it includes the promotion of health, the integrated holistic treatment of disease and the prevention of illness.  Reimbursement is done not only through the means of fee-for-service but providers are paid also based on patient health outcomes. There are various alternative payment models, but they all require that participant providers assume risk in different degrees.&lt;/p&gt;
 &lt;p&gt;Implementing such new models implies the measurement of new parameters and the analysis of complicated patters through the gathering of big data. Also, there is a need for a framework of information technology that enables people and processes with the end of coordinating and unifying patient care plans.&lt;/p&gt;
-&lt;p&gt;There seems to be a trend towards value-based care and many challenges remain, so we must remain vigilant for such emerging opportunities in the development of new technologies that allow for such models to develop and thrive.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dehumanized health care]]></title><description><![CDATA[Health care has become dehumanized and medicine has lost its soul. How have we come to this?. ]]></description><link>http://www.santiagocammi.com//posts/Dehumanized-health-care/</link><guid isPermaLink="false">http://www.santiagocammi.com//posts/Dehumanized-health-care/</guid><pubDate>Sun, 10 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;There seems to be a trend towards value-based care and many challenges remain, so we must remain vigilant for such emerging opportunities in the development of new technologies that allow for such models to develop and thrive.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dehumanized health care]]></title><description><![CDATA[Health care has become dehumanized and medicine has lost its soul. How have we come to this?. ]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</guid><pubDate>Sun, 10 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+    href=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -59,22 +59,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/01472/hospital-on-fire-francisco-goya.webp 240w,
-/blog/static/8077c583ecaa3406a806dcc3085cf11a/222bd/hospital-on-fire-francisco-goya.webp 480w,
-/blog/static/8077c583ecaa3406a806dcc3085cf11a/31462/hospital-on-fire-francisco-goya.webp 900w&quot;
+          srcset=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/01472/hospital-on-fire-francisco-goya.webp 240w,
+/static/8077c583ecaa3406a806dcc3085cf11a/222bd/hospital-on-fire-francisco-goya.webp 480w,
+/static/8077c583ecaa3406a806dcc3085cf11a/31462/hospital-on-fire-francisco-goya.webp 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/3bc27/hospital-on-fire-francisco-goya.jpg 240w,
-/blog/static/8077c583ecaa3406a806dcc3085cf11a/98431/hospital-on-fire-francisco-goya.jpg 480w,
-/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg 900w&quot;
+          srcset=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/3bc27/hospital-on-fire-francisco-goya.jpg 240w,
+/static/8077c583ecaa3406a806dcc3085cf11a/98431/hospital-on-fire-francisco-goya.jpg 480w,
+/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/blog/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+          src=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
           alt=&quot;hospital-on-fire-francisco-goya&quot;
           title=&quot;hospital-on-fire-francisco-goya&quot;
           loading=&quot;lazy&quot;

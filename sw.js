@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-c4e0161193e223221b58.js"
+    "url": "webpack-runtime-be188dc44b9469a1aaf4.js"
   },
   {
     "url": "styles.2a307e351b108d9d5ca1.css"
@@ -36,21 +36,17 @@ self.__precacheManifest = [
     "url": "styles-dbaf97f79f1f1465347c.js"
   },
   {
-    "url": "commons-6c75b483559d4fc975bb.js"
+    "url": "commons-0b067cbd2c20d6c1a4a4.js"
   },
   {
-    "url": "app-34dc364ad6a6709b0eda.js"
+    "url": "app-cbb9cfb5db52eea8f27f.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "da6f70a851e1b121cd2ccb316354f9dc"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "d274adf0f008ef152ce70a312b04b730"
+    "revision": "33b469e5e57744ada3aee0aab6ec56f9"
   },
   {
     "url": "manifest.json",
@@ -146,12 +142,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/blog`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/blog/app-34dc364ad6a6709b0eda.js`))) {
+  if (!resources || !(await caches.match(`/app-cbb9cfb5db52eea8f27f.js`))) {
     return await fetch(event.request)
   }
 
@@ -164,7 +160,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/blog/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
