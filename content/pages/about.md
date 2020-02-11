@@ -1,13 +1,14 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/static/photo.jpg"
 ---
+![Santiago](/static/photo.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+My name is Santiago, and I want to improve health care through the means of technology. I'm able to do this by combining my knowledge acquired in medical school and my self taught software development skills. For the past year, I've been analyzing the workflow of emergency departments and building tools that improve the quality and efficiency of the care provided. While at the same time learning about medical informatics, interoperability, and medical modeling.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I also enjoy to teach, I've done so in the physiology department of the University of Buenos Aires, where I've done educational research and developed simulations of human systems.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I studied medicine because I'm fascinated by humans, from our physiology to our social interactions and the relationship between ourselves and illness. I wanted to not only treat patients but also learn from them, listen to their life stories and their way of life.  But while studying I came to realize that medicine had become a dehumanized discipline, where machines treat dysfunctional systems. This is mainly why I decided to postpone my medical practice and focus on improving the system.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Born the south of Argentina but moved 12 times trough out Latin America, including Venezuela, Mexico, and Peru.  Currently, I live in Buenos Aires.  

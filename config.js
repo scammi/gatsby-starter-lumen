@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Santiago Cammi',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Improving health care through the means of technology.',
     contacts: {
       email: '',
       facebook: '',
