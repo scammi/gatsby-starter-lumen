@@ -1,10 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link>https://scammi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Nov 2019 23:38:08 GMT</lastBuildDate><item><title><![CDATA[Value based health]]></title><description><![CDATA[Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.. ]]></description><link>https://scammi.github.io/posts/Value-based-health/</link><guid isPermaLink="false">https://scammi.github.io/posts/Value-based-health/</guid><pubDate>Sun, 17 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Feb 2020 20:52:57 GMT</lastBuildDate><item><title><![CDATA[¿Que es la informática médica?]]></title><description><![CDATA[Pequeña introducción a la salud digital y la informática médica. Qué son y cual es su finalidad ]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/que-es-im/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/que-es-im/</guid><pubDate>Fri, 24 Jan 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 599px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/b4b1b/KnowledgeInformationWisdom.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.09015025041736%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAetLDQP/xAAXEAEBAQEAAAAAAAAAAAAAAAABABBB/9oACAEBAAEFAmHG7f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABsQAAEEAwAAAAAAAAAAAAAAAAABETGRIUGB/9oACAEBAAE/IZLNjitmzqmxAc//2gAMAwEAAgADAAAAEMMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMVEhQf/aAAgBAQABPxBNl6TXZtBb1yYFIVts0PkASvKfIpdn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/01472/KnowledgeInformationWisdom.webp 240w,
+/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/222bd/KnowledgeInformationWisdom.webp 480w,
+/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/d3932/KnowledgeInformationWisdom.webp 599w&quot;
+          sizes=&quot;(max-width: 599px) 100vw, 599px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/3bc27/KnowledgeInformationWisdom.jpg 240w,
+/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/98431/KnowledgeInformationWisdom.jpg 480w,
+/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/b4b1b/KnowledgeInformationWisdom.jpg 599w&quot;
+          sizes=&quot;(max-width: 599px) 100vw, 599px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsby-starter-lumen/static/0b6920e1a5623abc9848e65b08ab7c75/b4b1b/KnowledgeInformationWisdom.jpg&quot;
+          alt=&quot;Information vs Knowledge, by gapingvoid.&quot;
+          title=&quot;Information vs Knowledge, by gapingvoid.&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;La salud digital es un campo emergente que se encuentra en la intersección de la informática, la computación, la salud pública y los negocios, haciendo uso de la tecnología como herramienta, con el objetivo de crear nuevos servicios médicos o mejorar los existentes. La promesa es la de una mejor calidad de atención, a un menor costo, con pacientes satisfechos, menores errores y un  personal de salud menos exhausto. Se trata de digitalizar la medicina, transición que hace mucho pasó en otras industrias, como la sector bancario o el comercio, que por distintos motivos la medicina a quedado relegada. El trabajo no solo consiste en crear soluciones, sino, además, saber llevarlas a la práctica, que sean rentables, que sean útiles, usadas y de asegurarse de que solucionen más problemas de los que crea.&lt;/p&gt;
+&lt;p&gt;La informática médica es una rama de la salud digital, consiste en aplicar la ingeniería de la informática a los procesos médicos.  Un sistema de información moderno está compuesto por hardware, software, datos, personas y procesos. Estos en conjunto, colectan, filtran, procesan y distribuyen información. Los  datos son hechos fácticos, cuando a estos se les ordena, filtra y se les da contexto, obtendremos información. Al saber aplicar la información tendremos conocimiento, y al saber cuando y de qué manera aplicamos el conocimiento tendremos sabiduría. La finalidad es la de transformar los datos en conocimiento, permitiendo la  toma decisiones bien fundamentadas.&lt;/p&gt;
+&lt;p&gt;Lo primero que se viene a la mente cuando pensamos en informática es en computacion, pero ademas, se extiende a la comunicación y psicología, cuando consideramos que la tecnología debe adaptarse a los usuarios y no al revés. Tener en cuenta las necesidades particulares de los usuarios y de su cultura, es fundamental para fomentar el uso. Algo similar ocurre con los procesos, estos deben ser cuidadosamente evaluados y analizados para poder adaptarse a ellos y mejorarlos si es necesario. En estos dos últimos puntos es donde adquiere sentido que un médico participe en el desarrollo de estos sistemas. Permitiéndole generar empatía con el usuario y utilizar su conocimiento específico para analizar los procesos.&lt;/p&gt;
+&lt;p&gt;El conocimiento médico crece exponencialmente, el tiempo estimado de duplicación era de 50 años en 1950, se aceleró a 7 años en 1980, 3.5 en 2010 y para 2020 se proyecta que cada 73 días. Volviéndose físicamente imposible estar al dia con todos los avances. Parte del trabajo de la informática médica, será el de generar relevancia entre tanto contenido y por ende sentido, ayudando a navegar este mar de información. En dicho contexto, la informática médica pasará de ser un accesorio a un elemento indispensable para la práctica.
+La salud inicia su transición a lo digital, fundamental es no olvidar, que  la tecnología debe estar a nuestro servicio, y no nosotros, al servicio de ella.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1761894/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1761894/&lt;/a&gt;
+&lt;a href=&quot;https://www.elsevier.com/connect/medical-knowledge-doubles-every-few-months-how-can-clinicians-keep-up&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.elsevier.com/connect/medical-knowledge-doubles-every-few-months-how-can-clinicians-keep-up&lt;/a&gt;
+&lt;a href=&quot;https://bus206.pressbooks.com/chapter/chapter-1/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://bus206.pressbooks.com/chapter/chapter-1/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Value based health]]></title><description><![CDATA[Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.. ]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Value-based-health/</guid><pubDate>Sun, 17 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+    href=&quot;/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,22 +62,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/01472/the-doctor-friedrich-friedlander.webp 240w,
-/static/221df5adb697be063ff6cf68f5b4b72b/222bd/the-doctor-friedrich-friedlander.webp 480w,
-/static/221df5adb697be063ff6cf68f5b4b72b/31462/the-doctor-friedrich-friedlander.webp 900w&quot;
+          srcset=&quot;/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/01472/the-doctor-friedrich-friedlander.webp 240w,
+/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/222bd/the-doctor-friedrich-friedlander.webp 480w,
+/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/31462/the-doctor-friedrich-friedlander.webp 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/3bc27/the-doctor-friedrich-friedlander.jpg 240w,
-/static/221df5adb697be063ff6cf68f5b4b72b/98431/the-doctor-friedrich-friedlander.jpg 480w,
-/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg 900w&quot;
+          srcset=&quot;/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/3bc27/the-doctor-friedrich-friedlander.jpg 240w,
+/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/98431/the-doctor-friedrich-friedlander.jpg 480w,
+/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
+          src=&quot;/gatsby-starter-lumen/static/221df5adb697be063ff6cf68f5b4b72b/2d017/the-doctor-friedrich-friedlander.jpg&quot;
           alt=&quot;the-doctor-friedrich-friedlander&quot;
           title=&quot;the-doctor-friedrich-friedlander&quot;
           loading=&quot;lazy&quot;
@@ -42,13 +89,13 @@
 &lt;p&gt;The patient’s incentive to have a fulfilling and healthy life does not aline with those of the medical institution. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick.  A shift from volume-driven to value-driven practice is needed. But first, we need to understand the meaning of value, how to measure and achieve it.  &lt;/p&gt;
 &lt;p&gt;A value approach exceeds the diagnosis and treatment of illness, it includes the promotion of health, the integrated holistic treatment of disease and the prevention of illness.  Reimbursement is done not only through the means of fee-for-service but providers are paid also based on patient health outcomes. There are various alternative payment models, but they all require that participant providers assume risk in different degrees.&lt;/p&gt;
 &lt;p&gt;Implementing such new models implies the measurement of new parameters and the analysis of complicated patters through the gathering of big data. Also, there is a need for a framework of information technology that enables people and processes with the end of coordinating and unifying patient care plans.&lt;/p&gt;
-&lt;p&gt;There seems to be a trend towards value-based care and many challenges remain, so we must remain vigilant for such emerging opportunities in the development of new technologies that allow for such models to develop and thrive.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dehumanized health care]]></title><description><![CDATA[Health care has become dehumanized and medicine has lost its soul. How have we come to this?. ]]></description><link>https://scammi.github.io/posts/Dehumanized-health-care/</link><guid isPermaLink="false">https://scammi.github.io/posts/Dehumanized-health-care/</guid><pubDate>Sun, 10 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;There seems to be a trend towards value-based care and many challenges remain, so we must remain vigilant for such emerging opportunities in the development of new technologies that allow for such models to develop and thrive.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dehumanized health care]]></title><description><![CDATA[Health care has become dehumanized and medicine has lost its soul. How have we come to this?. ]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Dehumanized-health-care/</guid><pubDate>Sun, 10 Nov 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+    href=&quot;/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -59,22 +106,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/01472/hospital-on-fire-francisco-goya.webp 240w,
-/static/8077c583ecaa3406a806dcc3085cf11a/222bd/hospital-on-fire-francisco-goya.webp 480w,
-/static/8077c583ecaa3406a806dcc3085cf11a/31462/hospital-on-fire-francisco-goya.webp 900w&quot;
+          srcset=&quot;/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/01472/hospital-on-fire-francisco-goya.webp 240w,
+/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/222bd/hospital-on-fire-francisco-goya.webp 480w,
+/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/31462/hospital-on-fire-francisco-goya.webp 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/3bc27/hospital-on-fire-francisco-goya.jpg 240w,
-/static/8077c583ecaa3406a806dcc3085cf11a/98431/hospital-on-fire-francisco-goya.jpg 480w,
-/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg 900w&quot;
+          srcset=&quot;/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/3bc27/hospital-on-fire-francisco-goya.jpg 240w,
+/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/98431/hospital-on-fire-francisco-goya.jpg 480w,
+/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg 900w&quot;
           sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
+          src=&quot;/gatsby-starter-lumen/static/8077c583ecaa3406a806dcc3085cf11a/2d017/hospital-on-fire-francisco-goya.jpg&quot;
           alt=&quot;hospital-on-fire-francisco-goya&quot;
           title=&quot;hospital-on-fire-francisco-goya&quot;
           loading=&quot;lazy&quot;
