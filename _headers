@@ -91,14 +91,6 @@
   Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/gatsby-starter-lumen/posts/Dehumanized-health-care/
-  Link: </gatsby-starter-lumen/webpack-runtime-87c44e05271c16236451.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/app-13a5e088902f0569015c.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
-  Link: </gatsby-starter-lumen/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /gatsby-starter-lumen/posts/Value-based-health/
   Link: </gatsby-starter-lumen/webpack-runtime-87c44e05271c16236451.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -108,6 +100,14 @@
   Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /gatsby-starter-lumen/posts/que-es-im/
+  Link: </gatsby-starter-lumen/webpack-runtime-87c44e05271c16236451.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/app-13a5e088902f0569015c.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
+  Link: </gatsby-starter-lumen/component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/gatsby-starter-lumen/posts/Dehumanized-health-care/
   Link: </gatsby-starter-lumen/webpack-runtime-87c44e05271c16236451.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </gatsby-starter-lumen/commons-2d2de6e684d1d08202c2.js>; rel=preload; as=script
