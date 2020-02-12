@@ -2,7 +2,7 @@
 
 module.exports = {
   url: ' https://scammi.github.io/gatsby-starter-lumen/',
-  pathPrefix: '/gatsby-starter-lumen/',
+  pathPrefix: '',
   title: 'Blog by Santiago Cammi',
   subtitle: 'Humanizing health trough technology.',
   copyright: '© All rights reserved.',
