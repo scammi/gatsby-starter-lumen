@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Feb 2020 23:20:14 GMT</lastBuildDate><item><title><![CDATA[Membrane potential simulatiton]]></title><description><![CDATA[Simulation of membrane potential and the action potential of excitable cells.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</guid><pubDate>Wed, 12 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Simulation of membrane potential and the action potential of excitable cells.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Apr 2020 00:33:18 GMT</lastBuildDate><item><title><![CDATA[Thoughts on self education]]></title><description><![CDATA[Why university might not be the right place for learning.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</guid><pubDate>Tue, 07 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 477px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/044d9da936d603c066cbbe0006906312/0f42c/Benjamin_Franklin_1767.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125.78616352201257%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHiWq3NjLiZ54DMQn//xAAcEAABBAMBAAAAAAAAAAAAAAABAAIDERITICH/2gAIAQEAAQUCfVvhLB6jGU8rYUZSDlfP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPwEwbn//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwEh/8QAHBABAAEEAwAAAAAAAAAAAAAAAQAQESExICJB/9oACAEBAAY/AsQbjRwk1o9p15f/xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhQVEQMf/aAAgBAQABPyFVkZyTmicF7PIiqwzfaw3o4QnGxsbfUEx+/wD/2gAMAwEAAgADAAAAEDw3cP/EABoRAQABBQAAAAAAAAAAAAAAAAEAEBEhMVH/2gAIAQMBAT8QcblnYq0//8QAGREBAAIDAAAAAAAAAAAAAAAAAQARECFR/9oACAECAQE/EC9BLeQBj//EAB0QAQADAQEAAwEAAAAAAAAAAAEAESExURBBgcH/2gAIAQEAAT8QBcTtNzCC2j6q63sC4osMaNXwfYDRCR0UV/c/IJwDypciINbbGcUDyAGzqfT8f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/044d9da936d603c066cbbe0006906312/01472/Benjamin_Franklin_1767.webp 240w,
+/static/044d9da936d603c066cbbe0006906312/d951e/Benjamin_Franklin_1767.webp 477w&quot;
+          sizes=&quot;(max-width: 477px) 100vw, 477px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/044d9da936d603c066cbbe0006906312/3bc27/Benjamin_Franklin_1767.jpg 240w,
+/static/044d9da936d603c066cbbe0006906312/0f42c/Benjamin_Franklin_1767.jpg 477w&quot;
+          sizes=&quot;(max-width: 477px) 100vw, 477px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/044d9da936d603c066cbbe0006906312/0f42c/Benjamin_Franklin_1767.jpg&quot;
+          alt=&quot;Benjamin_Franklin_by_Joseph_Duplessis_1778&quot;
+          title=&quot;Benjamin_Franklin_by_Joseph_Duplessis_1778&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Learning how to cook will allow you to tailor the food to your liking, it will be cheaper and if done efficiently might save you time. Learning by once self share many of these characteristics. In the same matter, you don’t go to a restaurant for every meal, you should not go to university every time you need to learn anything new. Campus, colleagues, and classrooms are nice, as well as being serve in a restaurant, but they are not essential.&lt;/p&gt;
+&lt;p&gt;Long are behind the days where you would learn everything you needed to know in university or school. You would go to your employer, and remain the same for years to come, until you retire.
+Today the job marketplace is a lot more dynamic, to remain relevant you need to incorporate new tools and skills. To believe you need to be perpetually in university would be a ridiculous idea.&lt;/p&gt;
+&lt;p&gt;Companies, a good one at least, do not care for degrees. They rather you have solid problem abilities,  they test this by giving you practice tests.  They need self-motivated, knowledge-hungry people that you finish what they start. That’s why they ask about personal projects. Diplomas are signal mechanisms,  and they don’t always indicate the best candidates, especially for a dynamic workplace that demands rapid adaptation and creativity. Many of those with diplomas are people that follow the path impose onto them, have little curiosity and are not autonomous.&lt;/p&gt;
+&lt;p&gt;You should not force yourself, start slow, only 15 minutes 3 days a week, and every week increase 5 minutes. It should be anything you are curious about, with no particular aim.  Be active, do more than reading, take notes, draw mind maps, trying to recall information, writing blog posts, writing code, making videos, etc.&lt;br&gt;
+Create a schedule and follow it, consistency of the practice its what matters most. It must be something done over long periods of time. University diplomas to many mean nothing more that you are able to sit, listen and do what you are told for a certain amount of time. Being able to teach yourself means so much more.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Membrane potential simulatiton]]></title><description><![CDATA[Simulation of membrane potential and the action potential of excitable cells.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</guid><pubDate>Wed, 12 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Simulation of membrane potential and the action potential of excitable cells.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/480/1*ZXBfXrINyC-UrCh7PqFz8w.gif&quot;&gt;&lt;/p&gt;
 &lt;p&gt;It is written on processing, an open-source graphical library and uses the Java language, with additional simplifications. It is meant to be a flexible software sketchbook. I choose processing since trying ideas and sharing them easy and straight forward.
 The program works by simulating an excitable “cell” as a class, there are three main methods “membrane potential”, “depolarized” and “conduct”. Membrane potential method uses a simplified version of the Goldman-Hodgkin-Katz (GHK) voltage equation.
