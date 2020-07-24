@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Apr 2020 00:33:18 GMT</lastBuildDate><item><title><![CDATA[Thoughts on self education]]></title><description><![CDATA[Why university might not be the right place for learning.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</guid><pubDate>Tue, 07 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jul 2020 18:27:49 GMT</lastBuildDate><item><title><![CDATA[Que es la ciencia de datos]]></title><description><![CDATA[Breve introducción a la ciencia de datos.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</guid><pubDate>Thu, 23 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/475093b2e322d1c81439c07ccf196f32/a987b/no_vision_no_hope.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwElEQVQoz62SwQqEIBCGVTqUCIIEXYIOPoaHuvRSHnwfTz5Lp14k6ObsFrlIqLTsCh8D8+vvzDAIIQRPIISccZ5nCGeapqD5694RnxlijM/YdR3s+w7btkHbtkH73jBmXVdYliXOlQ2rqvq0mGrbOQfW2jhXNhyGATjnyY+OaIwBrXWcSxuGOUkpgTGWrXAcR1BKxW/KFTZNk2w5QCmFuq6zM/R3+r73b1Of0g6EECcZPb9zpZ0M47mRrvBH/mv4AuuM+KdqX783AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/475093b2e322d1c81439c07ccf196f32/01472/no_vision_no_hope.webp 240w,
+/static/475093b2e322d1c81439c07ccf196f32/222bd/no_vision_no_hope.webp 480w,
+/static/475093b2e322d1c81439c07ccf196f32/620b9/no_vision_no_hope.webp 960w,
+/static/475093b2e322d1c81439c07ccf196f32/28063/no_vision_no_hope.webp 1440w,
+/static/475093b2e322d1c81439c07ccf196f32/34ef4/no_vision_no_hope.webp 1920w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/475093b2e322d1c81439c07ccf196f32/0783d/no_vision_no_hope.png 240w,
+/static/475093b2e322d1c81439c07ccf196f32/782f4/no_vision_no_hope.png 480w,
+/static/475093b2e322d1c81439c07ccf196f32/f570d/no_vision_no_hope.png 960w,
+/static/475093b2e322d1c81439c07ccf196f32/8d0ff/no_vision_no_hope.png 1440w,
+/static/475093b2e322d1c81439c07ccf196f32/a987b/no_vision_no_hope.png 1920w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/475093b2e322d1c81439c07ccf196f32/f570d/no_vision_no_hope.png&quot;
+          alt=&quot;no_vision_no_hope by Butcher&quot;
+          title=&quot;no_vision_no_hope by Butcher&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“El hombre está condenado a ser libre; porque una vez arrojado al mundo, él es responsable de todo lo que hace”&lt;/em&gt;  Jean-Paul Sartre&lt;/p&gt;
+&lt;p&gt;Tomar decisiones es inevitable, hasta no decidir es decidir, y con cada decisión tomada nos definimos. Por esto, es fundamental entender el proceso por el cual llegamos a nuestras decisiones. Por lo general pensamos rápido, usando la intuición y técnicas heurísticas, que si bien son ágiles, no son óptimas y suelen fallar. Tomar &lt;strong&gt;decisiones basadas en datos&lt;/strong&gt;, es pensar metodológicamente, tener un proceso, en donde  recopilamos evidencias y las usamos para llegar a un mejor resultado. &lt;/p&gt;
+&lt;p&gt;El primer paso es definir un objetivo específico, medible y realista. El segundo paso es establecer métricas relevantes para medir nuestro progreso. Éstas nos ayuda a entender dónde estamos y por ende, que decisiones tomar para acercarnos a nuestro objetivo, a su vez, las usamos para evaluar el efecto de nuestras acciones y así poder calibrarlas de manera correcta.&lt;/p&gt;
+&lt;p&gt;Hay que aclarar, que consultar a los datos no es consultar una bola de cristal, más bien, es tener un mapa que nos indica dónde estamos y dónde queremos ir. En base a esto, podemos trazar una trayectoria exitosa.&lt;/p&gt;
+&lt;p&gt;Este mapa es algo que se crea, en un proceso dinámico y cíclico, que constantemente se está refinando. El ciclo se inicia estableciendo preguntas a responder, estas preguntas determinan los datos a recopilar. Una vez que se tienen los datos, estos se usan para &lt;strong&gt;visualizar, analizar y modelar&lt;/strong&gt;. Con la finalidad de responder nuestra pregunta inicial. La respuesta es un insight, una revelación la cual es usada para la toma de decisiones. La respuesta y el análisis a su vez, motiva la generación de nuevas preguntas, que desencadenan las búsqueda de más datos.&lt;/p&gt;
+&lt;p&gt;El sistema consiste en un ciclo que se retroalimenta a sí mismo, donde cada iteración incrementa la complejidad del análisis y el volumen de datos. Esto a su vez nos permite responder preguntas mas complejas, como también generar modelos estadísticos de aprendizaje, también conocido como inteligencia artificial, que son útiles para predecir, de manera probabilística lo que puede pasar en el futuro basado en el pasado. Además, nuestra base de datos, al ir creciendo, podemos verla como un lago de datos, donde podemos pescar por revelaciones.&lt;/p&gt;
+&lt;p&gt;Son tres los grandes desafíos en la implementación de dicho sistema. El primero tiene relación con la generación de preguntas e hipótesis. Estas deben ser realizadas por un equipo, interdisciplinario, formado por expertos en el dominio, generalistas y el científico de datos. El segundo desafío es técnico y consiste en la recopilación, curación y mantenimiento de los datos, como la generación de los modelos. Por último, el tercer desafío es cultural, e involucra un &lt;strong&gt;cambio fundamental en la manera de tomar de  decisiones&lt;/strong&gt;. Si se hacen preguntas, se recopila información y se hace un análisis, sería inútil no utilizarlas en la toma de decisiones.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thoughts on self education]]></title><description><![CDATA[Why university might not be the right place for learning.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/Thoughts-on-self-education/</guid><pubDate>Tue, 07 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 477px;&quot;
     &gt;
@@ -39,7 +89,7 @@
 &lt;p&gt;Learning how to cook will allow you to tailor the food to your liking, it will be cheaper and if done efficiently might save you time. Learning by once self share many of these characteristics. In the same matter, you don’t go to a restaurant for every meal, you should not go to university every time you need to learn anything new. Campus, colleagues, and classrooms are nice, as well as being serve in a restaurant, but they are not essential.&lt;/p&gt;
 &lt;p&gt;Long are behind the days where you would learn everything you needed to know in university or school. You would go to your employer, and remain the same for years to come, until you retire.
 Today the job marketplace is a lot more dynamic, to remain relevant you need to incorporate new tools and skills. To believe you need to be perpetually in university would be a ridiculous idea.&lt;/p&gt;
-&lt;p&gt;Companies, a good one at least, do not care for degrees. They rather you have solid problem abilities,  they test this by giving you practice tests.  They need self-motivated, knowledge-hungry people that you finish what they start. That’s why they ask about personal projects. Diplomas are signal mechanisms,  and they don’t always indicate the best candidates, especially for a dynamic workplace that demands rapid adaptation and creativity. Many of those with diplomas are people that follow the path impose onto them, have little curiosity and are not autonomous.&lt;/p&gt;
+&lt;p&gt;Companies, a good one at least, do not care for degrees. They rather you have solid solving problem abilities, they test this by giving you practice tests. They need self-motivated, knowledge-hungry people that finish what they start. That’s why they ask about personal projects. Diplomas are signal mechanisms,  and they don’t always indicate the best candidates, especially for a dynamic workplace that demands rapid adaptation and creativity. Many of those with diplomas are people that follow the path impose onto them, have little curiosity and are not autonomous.&lt;/p&gt;
 &lt;p&gt;You should not force yourself, start slow, only 15 minutes 3 days a week, and every week increase 5 minutes. It should be anything you are curious about, with no particular aim.  Be active, do more than reading, take notes, draw mind maps, trying to recall information, writing blog posts, writing code, making videos, etc.&lt;br&gt;
 Create a schedule and follow it, consistency of the practice its what matters most. It must be something done over long periods of time. University diplomas to many mean nothing more that you are able to sit, listen and do what you are told for a certain amount of time. Being able to teach yourself means so much more.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Membrane potential simulatiton]]></title><description><![CDATA[Simulation of membrane potential and the action potential of excitable cells.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/potential-simulatiton/</guid><pubDate>Wed, 12 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Simulation of membrane potential and the action potential of excitable cells.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/480/1*ZXBfXrINyC-UrCh7PqFz8w.gif&quot;&gt;&lt;/p&gt;
