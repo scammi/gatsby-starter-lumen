@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jul 2020 18:27:49 GMT</lastBuildDate><item><title><![CDATA[Que es la ciencia de datos]]></title><description><![CDATA[Breve introducción a la ciencia de datos.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</guid><pubDate>Thu, 23 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 Jul 2020 20:55:59 GMT</lastBuildDate><item><title><![CDATA[Simulando el sincicio cardiaco]]></title><description><![CDATA[Presentamos junto a Pablo Scacci un simulador interactivo del sincicio cardiaco.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/heart-simulator-1/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/heart-simulator-1/</guid><pubDate>Wed, 29 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://media3.giphy.com/media/dC9uaHvVipCYMzeSNc/giphy.gif&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Acceder al simulador &lt;a href=&quot;https://scacchipa.github.io/heartsimulator/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En un intento de darle vida a la fisiología que encontramos en los libros, presentamos junto a Pablo Scacci un simulador interactivo del tejido cardiaco. Por razones obvias (codvid-19) es necesario modernizar la curricula universitaria, esto es parte de dicho proceso. El objetivo es extender las limitaciones actuales con una herramienta dinámica, que puede ser usada para entender la propagación eléctrica del sincitio cardiaco. Como también simular posibles patologías del mismo, siendo estas el infarto, los trastornos de conducción y las arritmias.&lt;/p&gt;
+&lt;p&gt;El simulador consta de 100 células en dos dimensiones, imagine que se toma una biopsia de tejido cardiaco, y se la mira desde arriba, como a traves de un microscopio. Las células interactúan entre ellas, donde cada una pueda estar en uno de tres estados, activa (amarilla), reposo (azul) e inactiva (rojo). El estado de cada célula depende del voltaje de la misma y este voltaje a su vez, depende de la carga de las células que le son vecinas.
+Una célula activada tiene un voltaje de membrana (Vm) elevado, esto provoca que el Vm de sus vecinas se eleve hasta alcanzar su umbral, desencadenando  un potencial de acción (PA). Después de ser activada la célula entrará en un periodo de inactivación, un periodo refractario, donde es incapaz de generar un nuevo PA. La célula después de un determinado tiempo vuelve a su estado de reposo, donde puede volver a ser estimulada.&lt;/p&gt;
+&lt;p&gt;La línea de células amarillas que se propaga es la ola de despolarización, y debido a que el potencial de acción desencadena la entrada de calcio, y este genera la contracción muscular, podemos ver, a esta ola, como una ola de contracción Esta ola deja atrás un conjunto de células inactivas(rojas), donde a medida que transcurre el tiempo, su voltaje disminuye hasta volver al de reposo, permitiendo que la célula entre en periodo de reposo (azul). Esto genera otra ola, una de repolarizacion, que empieza entre las primeras células despolarizadas.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 310px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f750a1f86ddf522d488c9017b6e9b9a7/fa223/botonera.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 21.612903225806456%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAABCUlEQVQY022NzysEcQDFv9FepBz34KIcSGq3/NiivZA2R3+Kvag9kZaDw0aK8mO3TUqxFxfLgchBrZHiZDVtq90d06xamRn5zvdjEElevd57h/eewNrHOWrBOghiHwaQpSUq5iuPpkG1ZjAaGyfcHyEyHKWrN0y5eMOqBq3Tku4UtM1IAvEawXl4chQCc4d6TnC13kx5WyD1JPrDM5dagbt7nYGhKKG+QUbGYrR3dFK8LbBwAWJS0rMITVM2YuIMkQDrxR9UTgkqK2Cs+bqM17hG8QXXddndy7GxmSGdyZLObmE36mhVSOQVs8eKuRNInkLqXOG++UcfRfWLn1l5Pr/Tf1B/vPfj3wHBjgQQiuVjjQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f750a1f86ddf522d488c9017b6e9b9a7/01472/botonera.webp 240w,
+/static/f750a1f86ddf522d488c9017b6e9b9a7/277cf/botonera.webp 310w&quot;
+          sizes=&quot;(max-width: 310px) 100vw, 310px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f750a1f86ddf522d488c9017b6e9b9a7/0783d/botonera.png 240w,
+/static/f750a1f86ddf522d488c9017b6e9b9a7/fa223/botonera.png 310w&quot;
+          sizes=&quot;(max-width: 310px) 100vw, 310px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/f750a1f86ddf522d488c9017b6e9b9a7/fa223/botonera.png&quot;
+          alt=&quot;botonera&quot;
+          title=&quot;botonera&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Al ingresar a la pagina encontramos  un tejido totalmente en reposo, para poder iniciar la simulación tenemos que agregar una célula automática. Esta desencadenará la contracción del tejido, así como lo hace el nódulo sinusal. Para agregar la célula, hacemos click en ‘Auto’ y luego sobre la célula que queramos transformar en automática. También podemos agregar células rápidas usando el botón ‘Fast’, simulando al tejido especializado de conducción y por último podemos agregar células ‘Dead’, que serian tejido infartado. Recomiendo poner pausar, dibujar combinando los tres tipos de células y poner play para ver como evoluciona nuestro tejido.&lt;/p&gt;
+&lt;p&gt;El simulador aún se encuentra en desarrollo,queda mucho por ajustar, mejorar y agregar. Son bienvenidas las criticas, sugerencias y la experiencia de uso. Si les resulta interesante y quieren participar de cualquier modo o aprender a programar, no duden en consultar. &lt;/p&gt;
+&lt;p&gt;  scammi@gmail.com &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Que es la ciencia de datos]]></title><description><![CDATA[Breve introducción a la ciencia de datos.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/intro-ciencia-datos/</guid><pubDate>Thu, 23 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;
