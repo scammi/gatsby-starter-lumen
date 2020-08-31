@@ -91,31 +91,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /posts/Value-based-health/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/posts/que-es-im/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/posts/potential-simulatiton/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
@@ -131,6 +107,14 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
+/posts/que-es-im/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /posts/Thoughts-on-self-education/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -139,7 +123,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/posts/heart-simulator-1/
+/posts/potential-simulatiton/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
@@ -155,6 +139,14 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/posts/heart-simulator-1/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /posts/migracion-digital/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -163,6 +155,14 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </app-fdc3e783c9b6e8d59001.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-e65799071924f888e0c9.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /posts/onboard-token/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
