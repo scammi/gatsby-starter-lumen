@@ -7,8 +7,8 @@ slug: "/posts/que-es-im/"
 category: "Digital health"
 tags:
   - "Health care"
-  - "Digital health"
   - "Medical informatics"
+  - "Castellano"  
 description: "Pequeña introducción a la salud digital y la informática médica. Qué son y cual es su finalidad "
 socialImage: "/KnowledgeInformationWisdom.jpg"
 ---

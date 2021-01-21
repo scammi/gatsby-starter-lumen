@@ -8,6 +8,7 @@ category: "Health care"
 tags:
   - "Health care"
   - "Mental health"
+  - "English"
 description: "Health care has become dehumanized and medicine has lost its soul. How have we come to this?.
 "
 socialImage: "/hospital-on-fire-francisco-goya.jpg"

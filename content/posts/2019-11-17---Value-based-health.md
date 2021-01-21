@@ -8,6 +8,7 @@ category: "Health care"
 tags:
   - "Health care"
   - "Value-based health"
+  - "English"
 description: "Health care has fallen into an 'incentive paradox' where the poorer the health of the population, the greater the provider reword is. So the question arises, how do we create new incentives, such as to have a future where hospitals are paid more when their patients are healthy, not sick..
 "
 socialImage: "/the-doctor-friedrich-friedlander.jpg"

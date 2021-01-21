@@ -9,6 +9,7 @@ tags:
   - "Technology"
   - "Physiology"
   - "Simulation"
+  - "Castellano"
 description: "Presentamos junto a Pablo Scacci un simulador interactivo del sincicio cardiaco."
 ---
 ![](https://media3.giphy.com/media/dC9uaHvVipCYMzeSNc/giphy.gif)

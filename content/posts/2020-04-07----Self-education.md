@@ -8,6 +8,7 @@ category: "Blog"
 tags:
   - "Education"
   - "Self improvement"
+  - "English"
 description: "Why university might not be the right place for learning."
 socialImage: "/Benjamin_Franklin_1767"
 ---

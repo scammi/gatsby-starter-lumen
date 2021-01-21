@@ -9,6 +9,7 @@ tags:
   - "Digital health"
   - "Technology"
   - "Data-science"
+  - "Castellano"
 description: "Breve introducción a la ciencia de datos."
 socialImage: "/no_vision_no_hope"
 ---

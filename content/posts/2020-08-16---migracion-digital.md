@@ -9,6 +9,7 @@ tags:
   - "Blog"
   - "Education"
   - "Self improvement"
+  - "Castellano"
 
 description: "Más de la mitad de los jóvenes en Buenos Aires buscan irse del país. Una alternativa; migrar digitalmente."
 ---
