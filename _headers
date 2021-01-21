@@ -83,7 +83,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/pages/proyects/
+/pages/contacts/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
@@ -91,15 +91,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
-/posts/Dehumanized-health-care/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
-  Link: </app-09aaff7c579de79e97d4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/pages/contacts/
+/pages/proyects/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
@@ -116,6 +108,14 @@
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
 /posts/que-es-im/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
+  Link: </app-09aaff7c579de79e97d4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/posts/Dehumanized-health-care/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-00c83887bd5bf36a0165.js>; rel=preload; as=script
