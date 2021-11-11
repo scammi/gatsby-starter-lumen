@@ -1,8 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 09 Nov 2021 23:47:04 GMT</lastBuildDate><item><title><![CDATA[Just Mint]]></title><description><![CDATA[Brief introduction to just mint, ETH2021 finalists.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/just-mint/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/just-mint/</guid><pubDate>Wed, 10 Nov 2021 02:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Loot boxes are a very common game mechanic, it lets game developers distribute content to players. These loot boxes are redeemable for in-game items called loot. Loots take meaning inside the game context and can range from skins to in-game advantage. They were inspired by Asian candy toys, where a random price is revealed on opening the candy.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Santiago Cammi]]></title><description><![CDATA[Humanizing health trough technology.]]></description><link> https://scammi.github.io/gatsby-starter-lumen/</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Nov 2021 18:16:29 GMT</lastBuildDate><item><title><![CDATA[Just Mint]]></title><description><![CDATA[Brief introduction to just mint, ETH2021 finalists.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/just-mint/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/just-mint/</guid><pubDate>Wed, 10 Nov 2021 02:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0aa1b1a5ef8131918924298292f5c24c/8dcf2/gashapon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABzimVUyI//8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oACAEBAAEFAlrINzImKZBaDk//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BjI//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/AcpWf//EAB0QAAICAQUAAAAAAAAAAAAAAAABESECEDFBYaH/2gAIAQEABj8C9JjcpuOjJEcK9P/EABoQAQEAAwEBAAAAAAAAAAAAAAERACExUWH/2gAIAQEAAT8haZOPTue/cs0vJlVfGvWQKunAu6KPZhiE7n//2gAMAwEAAgADAAAAENzf/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEhEbHB0fD/2gAIAQMBAT8QSinrifKzs//EABcRAAMBAAAAAAAAAAAAAAAAAAABYRH/2gAIAQIBAT8QeKLH/8QAHhABAQADAAIDAQAAAAAAAAAAAREAITFRoUFhgZH/2gAIAQEAAT8QKCRBAA6uRyA9MF9q3LG6tvae3FAyVAA8m26bhAEYK+bP5PeCP2kxe/GmYDhFdPuZ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0aa1b1a5ef8131918924298292f5c24c/01472/gashapon.webp 240w,
+/static/0aa1b1a5ef8131918924298292f5c24c/222bd/gashapon.webp 480w,
+/static/0aa1b1a5ef8131918924298292f5c24c/620b9/gashapon.webp 960w,
+/static/0aa1b1a5ef8131918924298292f5c24c/95bc2/gashapon.webp 1400w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0aa1b1a5ef8131918924298292f5c24c/3bc27/gashapon.jpg 240w,
+/static/0aa1b1a5ef8131918924298292f5c24c/98431/gashapon.jpg 480w,
+/static/0aa1b1a5ef8131918924298292f5c24c/b3ee8/gashapon.jpg 960w,
+/static/0aa1b1a5ef8131918924298292f5c24c/8dcf2/gashapon.jpg 1400w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0aa1b1a5ef8131918924298292f5c24c/b3ee8/gashapon.jpg&quot;
+          alt=&quot;Gashapon&quot;
+          title=&quot;Gashapon&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Loot boxes are a very common game mechanic, it lets game developers distribute content to players. These loot boxes are redeemable for in-game items called loot. Loots take meaning inside the game context and can range from skins to in-game advantage. They were inspired by Gashapon, a variety of vending machine-dispensed capsule toys popular in Asia.&lt;/p&gt;
 &lt;p&gt;In very few years they have sprung in all game genres, creating a new business model paradigm, where revenue becomes a stream, instead of the single sold game, now users buy upon thoughts of dollars in-game items. This massive adoption is partly a response due to the rising development cost. They are also a great way to  promote users engagement. It’s estimated that by 2022, loot-boxes will have a market of 50 billion dollars. &lt;/p&gt;
 &lt;p&gt;Just Mint is a set of tools for game developers that aim to shorten the gap between web3 and game developers. Simplifying the expression of in-game items as NFTs. Doing so empowers gamers, making them true owners of their won items. It gives developers a new needed source of revenue. And both gain access to the metaverse. Where their items can be expressed outside the game, and be materialized in a new reality.&lt;/p&gt;
-&lt;p&gt;[1] &lt;a href=&quot;https://showcase.ethglobal.com/ethonline2021/just-mint&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Show case&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&quot;https://youtu.be/xJiABLuD06g?t=1824&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Live demo&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[OpenEHR, where to start?]]></title><description><![CDATA[Links and resources I found useful to understand openEHR.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/openehr-links/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/openehr-links/</guid><pubDate>Tue, 12 Jan 2021 02:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://showcase.ethglobal.com/ethonline2021/just-mint&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Show case&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/xJiABLuD06g?t=1824&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Live demo&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[OpenEHR, where to start?]]></title><description><![CDATA[Links and resources I found useful to understand openEHR.]]></description><link> https://scammi.github.io/gatsby-starter-lumen//posts/openehr-links/</link><guid isPermaLink="false"> https://scammi.github.io/gatsby-starter-lumen//posts/openehr-links/</guid><pubDate>Tue, 12 Jan 2021 02:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;

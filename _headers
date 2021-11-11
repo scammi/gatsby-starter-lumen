@@ -75,14 +75,6 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-03b44e35bf699a9a9c3e.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
-  Link: </app-09aaff7c579de79e97d4.js>; rel=preload; as=script
-  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
-  Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -107,6 +99,14 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
+  Link: </app-09aaff7c579de79e97d4.js>; rel=preload; as=script
+  Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
+  Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-893928bf276e878ad8bb.js>; rel=preload; as=script
 /posts/Value-based-health/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
@@ -163,7 +163,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/posts/openehr-links/
+/posts/just-mint/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
@@ -171,7 +171,7 @@
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-67494f5d41ae7f2d66d1.js>; rel=preload; as=script
-/posts/just-mint/
+/posts/openehr-links/
   Link: </webpack-runtime-be188dc44b9469a1aaf4.js>; rel=preload; as=script
   Link: </styles-dbaf97f79f1f1465347c.js>; rel=preload; as=script
   Link: </commons-c333c7703cca104a425a.js>; rel=preload; as=script
